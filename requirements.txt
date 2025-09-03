@@ -1,0 +1,6 @@
+google-auth-oauthlib==1.2
+google-api-python-client==2.179
+yt-dlp==2025.8.11
+fastapi==0.116
+uvicorn==0.35
+instaloader==4.14
